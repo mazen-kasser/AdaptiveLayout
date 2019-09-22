@@ -1,0 +1,6 @@
+framework module Pods_AdaptiveLayoutTests {
+  umbrella header "Pods-AdaptiveLayoutTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

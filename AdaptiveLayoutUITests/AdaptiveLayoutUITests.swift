@@ -1,11 +1,3 @@
-//
-//  AdaptiveLayoutUITests.swift
-//  AdaptiveLayoutUITests
-//
-//  Created by Mazen on 8/09/19.
-//  Copyright © 2019 iProgram. All rights reserved.
-//
-
 import XCTest
 
 class AdaptiveLayoutUITests: XCTestCase {
